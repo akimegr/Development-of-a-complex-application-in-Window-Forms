@@ -1,0 +1,44 @@
+C:\Users\vladk\source\repos\AppDevLabs\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\vladk\source\repos\AppDevLabs\Lab13\bin\Debug\Lab13.exe
+C:\Users\vladk\source\repos\AppDevLabs\Lab13\bin\Debug\Lab13.pdb
+C:\Users\vladk\source\repos\AppDevLabs\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Users\vladk\source\repos\AppDevLabs\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\vladk\source\repos\AppDevLabs\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\vladk\source\repos\AppDevLabs\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\vladk\source\repos\AppDevLabs\Lab13\obj\Debug\Lab13.exe
+C:\Users\vladk\source\repos\AppDevLabs\Lab13\obj\Debug\Lab13.pdb
+C:\Users\vladk\source\repos\AppDevLabs\Lab13\obj\Debug\Lab13.MainForm.resources
+C:\Users\dimav\OneDrive\Рабочий стол\13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\dimav\OneDrive\Рабочий стол\13\Lab13\bin\Debug\Lab13.exe
+C:\Users\dimav\OneDrive\Рабочий стол\13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\dimav\OneDrive\Рабочий стол\13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Users\dimav\OneDrive\Рабочий стол\13\Lab13\obj\Debug\Lab13.MainForm.resources
+C:\Users\dimav\OneDrive\Рабочий стол\13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\dimav\OneDrive\Рабочий стол\13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\dimav\OneDrive\Рабочий стол\13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\dimav\OneDrive\Рабочий стол\13\Lab13\obj\Debug\Lab13.exe
+C:\Users\dimav\OneDrive\Рабочий стол\13\Lab13\obj\Debug\Lab13.pdb
+C:\Гурский раз.прилож\Lab_13\13\Lab13\bin\Debug\Lab13.exe.config
+C:\Гурский раз.прилож\Lab_13\13\Lab13\bin\Debug\Lab13.exe
+C:\Гурский раз.прилож\Lab_13\13\Lab13\bin\Debug\Lab13.pdb
+C:\Гурский раз.прилож\Lab_13\13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Гурский раз.прилож\Lab_13\13\Lab13\obj\Debug\Lab13.MainForm.resources
+C:\Гурский раз.прилож\Lab_13\13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Гурский раз.прилож\Lab_13\13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Гурский раз.прилож\Lab_13\13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Гурский раз.прилож\Lab_13\13\Lab13\obj\Debug\Lab13.exe
+C:\Гурский раз.прилож\Lab_13\13\Lab13\obj\Debug\Lab13.pdb
+C:\Гурский раз.прилож\Lab_13\13\Lab13\obj\Debug\Lab13.ColorForm.resources
+C:\Гурский раз.прилож\Lab_13\13\Lab13\obj\Debug\Lab13.Form3.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\bin\Debug\Lab13.exe
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\obj\Debug\Lab13.MainForm.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\obj\Debug\Lab13.ColorForm.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\obj\Debug\Lab13.Form3.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\obj\Debug\Lab13.exe
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab14\Lab_14\13\Lab13\obj\Debug\Lab13.pdb
